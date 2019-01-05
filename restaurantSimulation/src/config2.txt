@@ -1,0 +1,13 @@
+#Config file 2
+#number of tables
+6
+#tables description
+6,4,4,14,10,10
+#Menu
+Butterbeer,ALC,50
+Fire Whisky,ALC,60
+Honey Wine,ALC,80
+Water,BVG,20
+Pumpkin juice,BVG,40
+Pumpkin cake,VEG,50
+Spicy meat,SPC,300
